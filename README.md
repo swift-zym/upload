@@ -3,3 +3,4 @@
 - MEGAsyncSetup.dmg
 - MEGAsyncSetup.exe
 - usernames.txt
+- aaaa.jpeg
