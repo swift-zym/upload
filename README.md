@@ -3,6 +3,4 @@
 - MEGAsyncSetup.dmg
 - MEGAsyncSetup.exe
 - usernames.txt
-- aaaa.jpeg
-- aaaaa.png
 - scp基金会数据库_1.0.apk
