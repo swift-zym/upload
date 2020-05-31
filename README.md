@@ -4,4 +4,4 @@
 - MEGAsyncSetup.exe
 - usernames.txt
 - scp基金会数据库_1.0.apk
-- zym's vpn.zip
+- zym's vpn.crx
