@@ -17,13 +17,9 @@ swift@kyl1994.onmicrosoft.com
 swift@uoe.men
 
 
-Congratulations, ShadowsocksR server install completed!
-Your Server IP        :  65.52.179.156 
-Your Server Port      :  25565 
-Your Password         :  zc061212 
-Your Protocol         :  origin 
-Your obfs             :  plain 
-Your Encryption Method:  aes-256-cfb 
-
-Welcome to visit:https://shadowsocks.be/9.html
-Enjoy it!
+你的服务器地址（IP）： 65.52.179.156 
+你的密码            ： zc061212 
+你的端口            ： 1024 
+你的加密方式        ： aes-256-cfb 
+欢迎访问Suniceman小站   ： http://suniceman.com 
+你的ss链接： ss://YWVzLTI1Ni1jZmI6emMwNjEyMTJANjUuNTIuMTc5LjE1NjoxMDI0 
