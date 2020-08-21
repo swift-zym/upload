@@ -32,3 +32,5 @@ swift@uoe.men
  伪装类型 (header type) = none
 
 ---------- END -------------
+
+vmess://ewoidiI6ICIyIiwKInBzIjogIjIzM3YyLmNvbV82NS41Mi4xNzkuMTU2IiwKImFkZCI6ICI2NS41Mi4xNzkuMTU2IiwKInBvcnQiOiAiMzg5MTYiLAoiaWQiOiAiOTUzM2JlYmYtN2ZiZC00MWMwLWFiZjMtNjBjOGViMjE4N2M3IiwKImFpZCI6ICIyMzMiLAoibmV0IjogInRjcCIsCiJ0eXBlIjogIm5vbmUiLAoiaG9zdCI6ICIiLAoicGF0aCI6ICIiLAoidGxzIjogIiIKfQo=
