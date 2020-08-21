@@ -17,9 +17,18 @@ swift@kyl1994.onmicrosoft.com
 swift@uoe.men
 
 
-你的服务器地址（IP）： 65.52.179.156 
-你的密码            ： zc061212 
-你的端口            ： 1024 
-你的加密方式        ： aes-256-cfb 
-欢迎访问Suniceman小站   ： http://suniceman.com 
-你的ss链接： ss://YWVzLTI1Ni1jZmI6emMwNjEyMTJANjUuNTIuMTc5LjE1NjoxMDI0 
+---------- V2Ray 配置信息 -------------
+
+ 地址 (Address) = 65.52.179.156
+
+ 端口 (Port) = 38916
+
+ 用户ID (User ID / UUID) = 9533bebf-7fbd-41c0-abf3-60c8eb2187c7
+
+ 额外ID (Alter Id) = 233
+
+ 传输协议 (Network) = tcp
+
+ 伪装类型 (header type) = none
+
+---------- END -------------
