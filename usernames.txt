@@ -17,20 +17,12 @@ swift@kyl1994.onmicrosoft.com
 swift@uoe.men
 
 
----------- V2Ray 配置信息 -------------
+v2ray配置信息：               
+ IP(address):  52.148.89.223
+ 端口(port)：12345
+ id(uuid)：bbc215a4-3753-42b9-a70f-9318e8a8389d
+ 额外id(alterid)： 75
+ 加密方式(security)： auto
+ 传输协议(network)： tcp
 
- 地址 (Address) = 65.52.179.156
-
- 端口 (Port) = 38916
-
- 用户ID (User ID / UUID) = 9533bebf-7fbd-41c0-abf3-60c8eb2187c7
-
- 额外ID (Alter Id) = 233
-
- 传输协议 (Network) = tcp
-
- 伪装类型 (header type) = none
-
----------- END -------------
-
-vmess://ewoidiI6ICIyIiwKInBzIjogIjIzM3YyLmNvbV82NS41Mi4xNzkuMTU2IiwKImFkZCI6ICI2NS41Mi4xNzkuMTU2IiwKInBvcnQiOiAiMzg5MTYiLAoiaWQiOiAiOTUzM2JlYmYtN2ZiZC00MWMwLWFiZjMtNjBjOGViMjE4N2M3IiwKImFpZCI6ICIyMzMiLAoibmV0IjogInRjcCIsCiJ0eXBlIjogIm5vbmUiLAoiaG9zdCI6ICIiLAoicGF0aCI6ICIiLAoidGxzIjogIiIKfQo=
+vmess链接: vmess://eyAidiI6IjIiLCAicHMiOiIiLCAiYWRkIjoiNTIuMTQ4Ljg5LjIyMyIsICJwb3J0IjoiMTIzNDUiLCAiaWQiOiJiYmMyMTVhNC0zNzUzLTQyYjktYTcwZi05MzE4ZThhODM4OWQiLCAiYWlkIjoiNzUiLCAibmV0IjoidGNwIiwgInR5cGUiOiJub25lIiwgImhvc3QiOiIiLCAicGF0aCI6IiIsICJ0bHMiOiIiIH0=
